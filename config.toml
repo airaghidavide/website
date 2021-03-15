@@ -1,0 +1,101 @@
+baseURL = "https://airaghidavide.github.io./"
+title        = "Davide Airaghi"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[taxonomies]
+#    category = "blog"
+    tag      = "tags"
+#    series   = "series"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "I'm Davide Airaghi, a Data Engineer @ Reti S.p.a
+                  Take a look at some of my working projects
+                  For more check out my academic & professional resume
+                  Feel free to drop me a line by email"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My personal website"
+  keywords = "homepage, blog"
+  images = [""]
+
+  # Colors for favicons
+  #
+  [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    logoCursorColor    = "#90ee90"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "2s"
+
+  # Commento is more than just a comments widget you can embed — 
+  # it’s a return to the roots of the internet. 
+  # An internet without the tracking and invasions of privacy. 
+  # An internet that is simple and lightweight. 
+  # An internet that is focused on interesting discussions, not ads. 
+  # A better internet.
+  # Uncomment this to enable Commento.
+  #
+  # [params.commento]
+  #   url = ""
+
+  # Portrait on the home page
+    [params.portrait]
+      path     = "img/portrait.png"
+      alt      = "Portrait"
+      maxWidth = "200px"
+
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:airaghi.davide@gmail.com"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/airaghidavide"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/airaghidavide"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/airaghi.davide/"
+
+[languages]
+  [languages.en]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"

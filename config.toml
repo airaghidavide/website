@@ -101,4 +101,4 @@ paginate     = 10
   [[menu.main]]
     identifier = "about"
     name       = "CV"
-    url        = "cv/"
+    url        = "CV/"

@@ -99,6 +99,6 @@ paginate     = 10
     name       = "Projects"
     url        = "posts/"
   [[menu.main]]
-    identifier = "about"
+    identifier = "CV"
     name       = "CV"
     url        = "CV/"

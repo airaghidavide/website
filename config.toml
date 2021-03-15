@@ -17,8 +17,9 @@ paginate     = 10
 
   # Subtitle for home
   homeSubtitle = """
-  I'm Davide Airaghi, a Data Engineer
-  Take a look at some of my working projects"""
+  I am Davide Airaghi, a Data Engineer
+  Take a look at some of my working projects
+  """
   
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false

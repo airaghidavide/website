@@ -96,7 +96,7 @@ paginate     = 10
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
+    name       = "Projects"
     url        = "posts/"
   [[menu.main]]
     identifier = "about"

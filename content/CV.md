@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "CV"
 date: 2021-03-08T22:28:52-05:00
 draft: false
 ---

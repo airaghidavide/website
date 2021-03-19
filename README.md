@@ -5,5 +5,5 @@ My personal webiste build with <a href="https://gohugo.io/">Hugo</a> and deploye
 Theme: <a href="https://themes.gohugo.io/hugo-theme-hello-friend-ng/">hello-friend-ng</a>
 
 [![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://davideairaghi.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6d33de3c-e47a-42df-bd70-f84af20e95c6/deploy-status)](https://app.netlify.com/sites/davideairaghi/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d33de3c-e47a-42df-bd70-f84af20e95c6/deploy-status)](https://app.netlify.com/sites/davideairaghi)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)

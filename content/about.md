@@ -7,4 +7,4 @@ draft: false
 <br>Hi! I'm Davide Airaghi, a Data Engineer @ Reti S.p.a
 <br>Take a look at some of my working projects
 <br>For more check out my academic & professional resume
-<br>Feel free to drop me a line <a href="mailto:airaghi.davide@gmail.com">by email</a></p>
+<br>Feel free to drop me a line <a href="mailto:airaghi.davide@gmail.com">by email</a>

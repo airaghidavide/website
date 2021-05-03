@@ -5,9 +5,8 @@ theme        = "hello-friend-ng"
 paginate     = 10
 
 [taxonomies]
-#    category = "blog"
-    tag      = "tags"
-#    series   = "series"
+    tag = "tags"
+    category = "categories"
 
 [params]
   dateform        = "Jan 2, 2006"

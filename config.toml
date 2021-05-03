@@ -4,6 +4,12 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
@@ -82,7 +88,7 @@ paginate     = 10
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "posts/"
+    url        = "https://davideairaghi.netlify.app/posts/"
   [[menu.main]]
     identifier = "Resume"
     name       = "Resume"

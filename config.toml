@@ -5,8 +5,9 @@ theme        = "hello-friend-ng"
 paginate     = 10
 
 [taxonomies]
-    tag = "tags"
-    category = "categories"
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -77,7 +78,7 @@ paginate     = 10
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Projects"
+    name       = "Posts"
     url        = "posts/"
   [[menu.main]]
     identifier = "Resume"

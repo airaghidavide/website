@@ -4,6 +4,9 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
 [taxonomies]
   tag      = "tags"
   category = "categories"

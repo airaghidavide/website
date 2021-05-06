@@ -3,7 +3,6 @@ title: "Create a website with Hugo"
 date: 2021-03-08T22:29:05-05:00
 draft: false
 images:
-tags: ["web", "tutorial"]
 ---
 
 I made this website using Hugo. It was much easier than I anticipated and it's all thanks to the ease-of-use of the Hugo framework.

@@ -1,4 +1,4 @@
-baseURL = "https://airaghidavide.github.io./"
+baseURL      = "https://davideairaghi.netlify.app/"
 title        = "Davide Airaghi"
 languageCode = "en-us"
 theme        = "hello-friend-ng"

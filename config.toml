@@ -87,8 +87,8 @@ publishDir   = "public"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
-    url        = "https://davideairaghi.netlify.app/posts/"
+    name       = "Projects"
+    url        = "posts/"
   [[menu.main]]
     identifier = "Resume"
     name       = "Resume"

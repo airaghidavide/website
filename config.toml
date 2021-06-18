@@ -53,7 +53,7 @@ publishDir   = "public"
 
   # Portrait on the home page
     [params.portrait]
-      path     = "img/portrait.png"
+      path     = "img/portrait.jpeg"
       alt      = "Portrait"
       maxWidth = "200px"
 

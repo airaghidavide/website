@@ -55,7 +55,7 @@ publishDir   = "public"
     [params.portrait]
       path     = "img/portrait.jpeg"
       alt      = "Portrait"
-      maxWidth = "200px"
+      maxWidth = "300px"
 
   # Social icons
   [[params.social]]

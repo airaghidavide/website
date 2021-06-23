@@ -88,7 +88,7 @@ publishDir   = "public"
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
-    url        = "posts/"
+    url        = "Projects/"
   [[menu.main]]
     identifier = "Resume"
     name       = "Resume"

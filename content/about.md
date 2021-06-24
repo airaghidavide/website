@@ -3,7 +3,7 @@ title: "About"
 date: 2021-03-08T22:28:52-05:00
 draft: false
 ---
-![alt text](https://jennifergghagl93culc.files.wordpress.com/2015/12/pc.gif?w=768&zoom=2)
+![alt text](https://datamaven.ai/wp-content/uploads/2018/07/blinkingBrain-albert.ai_.gif)
 
 <br>Hi! I'm Davide Airaghi, a Data Engineer @ Reti S.p.a
 <br>Take a look at some of my working projects

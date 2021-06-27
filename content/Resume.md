@@ -6,7 +6,6 @@ draft: false
 
 <h1>Work experience</h1>
 
-
 <h5>11/2015-04/2016</h5>
 <h3>B&W Spig</h3>
 Via Borgomanero 34, 28040 Novara (Italy)
@@ -22,7 +21,7 @@ During the internship I analyzed many processes in order to seek and map the mai
 <h3>MU1 - Master in Business Intelligence and BigData Analytics</h3>
 University of Milan Bicocca
 <br>Piazza dell'Ateneo Nuovo 1, 20126 Milan (Italy)
-<br><a href="www.unimib.it/">unimib</a>
+<br><a href="https://www.unimib.it/">www.unimib.it</a>
 <br>
 <br>Main topics: SQL,NoSQL,Machine learning,Deep learning,BigData,Business intelligence,Agile project management,Text mining
 <br>
@@ -32,7 +31,7 @@ University of Milan Bicocca
 <h3>Bsc - Bachelor degree in Management and Production Engineering</h3>
 Polytechnic University of Milan
 <br>Piazza Leonardo da Vinci 32, 20133 Milan (Italy)
-<br><a href="www.polimi.it/">polimi</a>
+<br><a href="https://www.polimi.it/">www.polimi.it</a>
 <br>
 <br>Main topics: Mathematical analysis,Computer science,Economics,Operations research,Logistics and production system management,Quality control,Business management and organizzation
 <br>
@@ -42,4 +41,4 @@ Polytechnic University of Milan
 <h3>Scientific High School diploma</h3>
 Liceo Scientifico A. Tosi
 <br>Via Grossi Tommaso 3, 21052 Busto Arsizio (Italy)
-<br><a href="www.liceotosi.gov.it/">liceotosi</a>
+<br><a href="https://www.liceotosi.edu.it/">www.liceotosi.edu.it</a>

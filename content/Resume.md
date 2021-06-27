@@ -6,7 +6,7 @@ draft: false
 
 <h1>Work experience</h1>
 
-<h5>01/2015-04/2016</h5>
+<h5>11/2015 - 04/2016</h5>
 <h3>B&W Spig</h3>
 Via Borgomanero 34, 28040 Novara (Italy)
 <br><a href="https://www.babcock.com/it-it/spig">www.babcock.com/it-it/spig</a>

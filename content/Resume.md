@@ -66,7 +66,7 @@ A. Tosi Scientific High School
 </ul></li>  
 <li>Web Scraping
 <ul>
-<li>Selenium,Beautiful Soup<</li>
+<li>Selenium,Beautiful Soup</li>
 <li>Twint,Tweepy</li>
 </ul></li>  
 <li>ETL Tools

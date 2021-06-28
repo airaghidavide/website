@@ -6,7 +6,7 @@ draft: false
 
 <h1>Work experience</h1>
 
-<h5>11/2015 - 04/2016</h5>
+<h5>11|2015 - 04|2016</h5>
 <h3>B&W Spig</h3>
 Via Borgomanero 34, 28040 Novara (Italy)
 <br><a href="https://www.babcock.com/it-it/spig">www.babcock.com/it-it/spig</a>
@@ -17,7 +17,7 @@ During the internship I analyzed many processes in order to seek and map the mai
 ---
 <h1>Education</h1>
 
-<h5>05/2020-05/2021</h5>
+<h5>05|2020 - 05|2021</h5>
 <h3>MU1 - Master in Business Intelligence and BigData Analytics</h3>
 University of Milan Bicocca
 <br>Piazza dell'Ateneo Nuovo 1, 20126 Milan (Italy)
@@ -27,7 +27,7 @@ University of Milan Bicocca
 <br>
 <br>Project Work: Refactoring of an ETL pipeline concerning data produced by sensors mounted on logistic transports
 
-<h5>09/2012-02/2017</h5>
+<h5>09|2012 - 02|2017</h5>
 <h3>Bsc - Bachelor degree in Management and Production Engineering</h3>
 Polytechnic University of Milan
 <br>Piazza Leonardo da Vinci 32, 20133 Milan (Italy)
@@ -37,9 +37,9 @@ Polytechnic University of Milan
 <br>
 <br>Thesis: Identification of a KPI dashboard and developing of a tool to monitor them
 
-<h5>09/2006-07/2011</h5>
+<h5>09|2006 - 07|2011</h5>
 <h3>Scientific High School diploma</h3>
-Liceo Scientifico A. Tosi
+A. Tosi Scientific High School
 <br>Via Grossi Tommaso 3, 21052 Busto Arsizio (Italy)
 <br><a href="https://www.liceotosi.edu.it/">www.liceotosi.edu.it</a>
 
@@ -48,16 +48,45 @@ Liceo Scientifico A. Tosi
 <ul>
 <li>Database Management System
 <ul>
-<li>Oracle Database</li>
-<li>Microsoft SQL Server</li>
+<li>Oracle Database (PL/SQL)</li>
+<li>Microsoft SQL Server(T-SQL)</li>
 </ul></li>
-<li>Second item</li>
-<li>Third item
+<li>BI Tools
 <ul>
-<li>Indented item</li>
-<li>Indented item</li>
+<li>Microsoft PowerBI</li>
+<li>Tableau</li>
+<li>RAWGraphs</li>
+<li>Plotly Dash,Seborn,Matplotlib,DataPane</li>
+</ul></li>
+<li>Process modeling and business analysis
+<ul>
+<li>BPMN</li>
+<li>UML</li>
+<li>E-R Diagram</li>
+</ul></li>  
+<li>Web Scraping
+<ul>
+<li>Selenium,Beautiful Soup<</li>
+<li>Twint,Tweepy</li>
+</ul></li>  
+<li>ETL Tools
+<ul>
+<li>Azure Data Factory</li>
+<li>Talend</li>
+<li>Bonobo</li>
+</ul></li>  
+<li>Source Management
+<ul>
+<li>GitHub</li>
+</ul></li>
+<li>Data Cleaning,Data Wrangling and Data Science
+<ul>
+<li>OpenRefine</li>
+<li>Pandas,Scikit-Learn,Numpy</li>
+</ul></li>
+<li>Software & Tools
+<ul>
+<li>Microsoft Office(Word,Excel,PowerPoint,Access)</li>
+<li>Toad for Oracle,Oracle SQL Developer,Microsoft SQL Server Management Studio</li>
+<li>Anconda navigator,Jupyter Notebook,Google Colab</li> 
 </ul>
-</li>
-<li>Fourth item</li>
-</ul>
-

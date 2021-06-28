@@ -68,13 +68,13 @@ A. Tosi Scientific High School
 <ul>
 <li>Selenium,Beautiful Soup</li>
 <li>Twint,Tweepy</li>
-</ul></li>  
+</ul></li>
 <li>ETL Tools
 <ul>
 <li>Azure Data Factory</li>
 <li>Talend</li>
 <li>Bonobo</li>
-</ul></li>  
+</ul></li>
 <li>Source Management
 <ul>
 <li>GitHub</li>
@@ -90,3 +90,19 @@ A. Tosi Scientific High School
 <li>Toad for Oracle,Oracle SQL Developer,Microsoft SQL Server Management Studio</li>
 <li>Anconda navigator,Jupyter Notebook,Google Colab</li> 
 </ul>
+  
+---
+<h1>Languages</h1>
+ 
+Italian: mother tongue
+  
+| Language | Listening | Reading | Speaking | Writing |
+| --- | ----------- | ----------- | ----------- | ----------- |
+| English | C1 | C1 | B2 | B2 |
+
+<li>Certifications:
+<ul>
+<li>PET (Preliminary English Test)</li>
+<li>BULATS (Business Language Testing Service)</li>
+<li>TOEIC (Test of English for International Communication)</li>
+</ul></li>

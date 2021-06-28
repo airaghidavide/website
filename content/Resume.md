@@ -92,6 +92,7 @@ A. Tosi Scientific High School
 </ul>
 
 ---
+ 
 <h1>Languages</h1>
  
 Italian: mother tongue

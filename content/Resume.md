@@ -88,11 +88,10 @@ A. Tosi Scientific High School
 <ul>
 <li>Microsoft Office(Word,Excel,PowerPoint,Access)</li>
 <li>Toad for Oracle,Oracle SQL Developer,Microsoft SQL Server Management Studio</li>
-<li>Anconda navigator,Jupyter Notebook,Google Colab</li> 
+<li>Anconda navigator,Jupyter Notebook,Google Colab</li>
 </ul>
-
----
  
+---
 <h1>Languages</h1>
  
 Italian: mother tongue

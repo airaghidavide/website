@@ -42,3 +42,22 @@ Polytechnic University of Milan
 Liceo Scientifico A. Tosi
 <br>Via Grossi Tommaso 3, 21052 Busto Arsizio (Italy)
 <br><a href="https://www.liceotosi.edu.it/">www.liceotosi.edu.it</a>
+
+---
+<h1>Skills and Knowledge</h1>
+<ul>
+<li>Database Management System
+<ul>
+<li>Oracle Database</li>
+<li>Microsoft SQL Server</li>
+</ul></li>
+<li>Second item</li>
+<li>Third item
+<ul>
+<li>Indented item</li>
+<li>Indented item</li>
+</ul>
+</li>
+<li>Fourth item</li>
+</ul>
+

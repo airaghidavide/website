@@ -90,8 +90,7 @@ A. Tosi Scientific High School
 <li>Toad for Oracle,Oracle SQL Developer,Microsoft SQL Server Management Studio</li>
 <li>Anconda navigator,Jupyter Notebook,Google Colab</li>
 </ul></li>
-
----
+ 
 <h1>Languages</h1>
  
 Italian: mother tongue

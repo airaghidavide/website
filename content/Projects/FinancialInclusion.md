@@ -5,7 +5,7 @@ draft: false
 images:
 ---
 
- ![Tux, the Linux mascot](/assets/images/tux.png)
+ ![Cover](https://github.com/airaghidavide/website/blob/main/static/img/fin_incl/fin_incl.png)
 
 
 ## Context
@@ -33,3 +33,9 @@ Once the best model has been validated, it has been saved and used by the web ap
 * Jupyter Notebook
 * Streamlit
 * CI/CD
+
+## App
+
+  [Link to the App](https://share.streamlit.io/airaghidavide/financial_inclusion-app/main/financial_inclusion_app.py)
+
+ ![App](https://github.com/airaghidavide/website/blob/main/static/img/fin_incl/financial_inclusion_app_screenshot.PNG)

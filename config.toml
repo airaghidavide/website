@@ -32,7 +32,12 @@ publishDir   = "public"
 
   # Enable sharing buttons, if you like
   enableSharingButtons = true
-
+  
+  # Show reading time in minutes for posts
+  showReadingTime = true
+  
+  showMenuItems = 2
+  
   # Metadata mostly used in document's head
   description = "My personal website"
   keywords = "homepage, blog"

@@ -33,9 +33,9 @@ Once the best model has been validated, it has been saved and used by the web ap
 
 ## Useful Projects
 
-|Name     | Link   | 
-|---------|-----------------|
-| pandas profiling | https://github.com/pandas-profiling/pandas-profiling|
-| pdpipe | https://pdpipe.github.io/pdpipe/|
-| catboost | https://catboost.ai/ |
-| streamlit | https://streamlit.io/ |
+|Name              | Link                                                 | 
+|------------------|------------------------------------------------------|
+| pandas profiling | https://github.com/pandas-profiling/pandas-profiling |
+| pdpipe           | https://pdpipe.github.io/pdpipe/                     |
+| catboost         | https://catboost.ai/                                 |
+| streamlit        | https://streamlit.io/                                |

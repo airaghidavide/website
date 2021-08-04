@@ -38,4 +38,10 @@ Once the best model has been validated, it has been saved and used by the web ap
 | pandas profiling | https://github.com/pandas-profiling/pandas-profiling |
 | pdpipe           | https://pdpipe.github.io/pdpipe/                     |
 | catboost         | https://catboost.ai/                                 |
-| streamlit        | https://streamlit.io/                                |
+| streamlit        | https://streamlit.io/       
+                         |
+{{<table “table table-striped table-bordered">}}
+|———-|———-|———-|
+| Item 1   | Item 2   | Item 3   |
+| Item 1a  | Item 2a  | Item 3a  |
+{{</table>}}

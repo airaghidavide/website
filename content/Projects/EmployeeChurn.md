@@ -2,8 +2,16 @@
 title: "Business pitch - Employee churn prediction for Reti S.p.a"
 date: 2021-06-23T22:29:05-05:00
 draft: false
+tags:
+  - machine learning
+  - predictive modeling
+  - XAI
+  - showcase
+  - classification
 images:
 ---
+
+![Cover](/img/churn_cover.jpg)
 
 ## Context
 Employee churn is a costly problem for companies. The true cost of replacing an employee can often be quite large.
@@ -33,3 +41,7 @@ The machine learning model experiment is developed on a sythetic dataset and the
 
 * Python
 * Jupyter Notebook
+
+## Model Explainability
+
+![Shap](/img/shap_plot.png)

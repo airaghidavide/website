@@ -3,6 +3,11 @@ title: "Financial Inclusion classifier - Streamlit App"
 date: 2021-06-02T22:29:05-05:00
 draft: false
 images:
+tags:
+  - machine learning
+  - CI/CD
+  - predictive modeling
+  - app
 ---
 
 ![Cover](/img/fin_incl.png)

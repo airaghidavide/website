@@ -5,7 +5,7 @@ draft: false
 images:
 ---
 
-![Setup Light Version](/fin_incl/fin_incl.png)
+![Setup Light Version](/img/portrait.jpeg)
 
 
 ### Context

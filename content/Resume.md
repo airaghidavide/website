@@ -6,18 +6,46 @@ draft: false
 
 <h1>Work experience</h1>
 
-<h5>11|2015 - 04|2016</h5>
+
+<h4>11|2016 - 01|2019</h4>
+<h3>Best Solutions S.r.l</h3>
+IT Consulting
+
+Piazza Vigili del Fuoco 11,20134 Milan (Italy)
+<br><a href="https://www.bestsolutions.it/">https://www.bestsolutions.it/</a>
+
+
+<h5>05|2017 - 06|2018</h5>
+<h4>Junior Consultant - CheBanca! S.p.a</h4>
+DWH Area / IT Data Management and Analytics
+
+Analyze and understand the projects requirements, perform analysis related to data mismatching and finding root causes by scanning the whole ETL process, check accuracy and completeness of the data ingested,generate the BI reports required by the business units involved,developing Oracle data model and PL/SQL objects.
+<br>
+<br>Technologies: Oracle 11g, Toad for Oracle, Oracle Data Integrator
+
+<h5>11|2016 - 04|2017</h5>
+<h4>Intern</h4>
+Tha aim of the internship is developing a module of the ERP of the firm concerning the projects management process in order to understand every step of the software lifecycle. 
+<br>
+<br>Technologies: ASP.NET, C#, SQL Server
+
+---
+<h4>11|2015 - 04|2016</h4>
 <h3>B&W Spig</h3>
+Industrial cooling systems
+
 Via Borgomanero 34, 28040 Novara (Italy)
 <br><a href="https://www.babcock.com/it-it/spig">www.babcock.com/it-it/spig</a>
 
-<h4>Intern</h4>
+<h4>Curricular Intern</h4>
 During the internship I analyzed many processes in order to seek and map the main causes which generate non quality costs. After that, with the support of the quality management, I identified the concerning KPIs (Key Performance Indicator) to control the entire process in order to realize a KPIs dashboard. I also developed a tool in VB.NET to control and to collect non quality cost and to examine some of the KPIs pinpointed in the first phase. The non quality costs are tracked by a coding tailored system. Lastly the tool has been integrated in SAP.
+
+Technologies: VB NET, Microsoft Excel, Oracle SQL.
 
 ---
 <h1>Education</h1>
 
-<h5>05|2020 - 05|2021</h5>
+<h4>05|2020 - 05|2021</h4>
 <h3>MU1 - Master in Business Intelligence and BigData Analytics</h3>
 University of Milan Bicocca
 <br>Piazza dell'Ateneo Nuovo 1, 20126 Milan (Italy)
@@ -27,7 +55,7 @@ University of Milan Bicocca
 <br>
 <br>Project Work: Refactoring of an ETL pipeline concerning data produced by sensors mounted on logistic transports
 
-<h5>09|2012 - 02|2017</h5>
+<h4>09|2012 - 02|2017</h4>
 <h3>Bsc - Bachelor degree in Management and Production Engineering</h3>
 Polytechnic University of Milan
 <br>Piazza Leonardo da Vinci 32, 20133 Milan (Italy)
@@ -37,7 +65,7 @@ Polytechnic University of Milan
 <br>
 <br>Thesis: Identification of a KPI dashboard and developing of a tool to monitor them
 
-<h5>09|2006 - 07|2011</h5>
+<h4>09|2006 - 07|2011</h4>
 <h3>Scientific High School diploma</h3>
 A. Tosi Scientific High School
 <br>Via Grossi Tommaso 3, 21052 Busto Arsizio (Italy)

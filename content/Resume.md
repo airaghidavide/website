@@ -4,22 +4,59 @@ date: 2021-03-08T22:28:52-05:00
 draft: false
 ---
 
-<h1>Work experience</h1>
+<h2>Personal information</h2>
 
+
+<h2>Work experience</h2>
+
+
+<h4>02|2019 - present</h4>
+<h3>Reti S.p.A</h3>
+IT Consulting
+<br>Via Dante, 6 21052 Busto Arsizio (Italy)
+<br><a href="https://www.reti.it/">www.reti.it</a>
+
+<h5>04|2020 - present</h5>
+<h4>Consultant - Intesa</h4>
+Data Governance
+
+Design of an architecture to perform specific controls with the aim to detect anomalies during the orders placement and financial operations recording. The purpose of the projects is to be compliant with the MIFID 2 regulamentation.
+The entire process is implemented with scheduled Oracle stored procedure built with PL/SQL and the final data is spooled and loaded into QlikSense dashboard to enable the user to analyze all the anomalies occured during a certain date.
+
+<br>
+<br>Technologies: Oracle 12g, SQL Developer
+
+<h5>02|2019 - 03|2020</h5>
+<h4>Consultant - Allianz Technology</h4>
+Allianz Technology - L/H Actuarial Solutions
+
+
+<br>
+<br>Technologies: Oracle 19c, Toad for Oracle, Microsoft Excel
+
+---
 
 <h4>11|2016 - 01|2019</h4>
 <h3>Best Solutions S.r.l</h3>
 IT Consulting
 
 Piazza Vigili del Fuoco 11,20134 Milan (Italy)
-<br><a href="https://www.bestsolutions.it/">https://www.bestsolutions.it/</a>
+<br><a href="https://www.bestsolutions.it/">www.bestsolutions.it</a>
 
+<h5>07|2018 - 01|2019</h5>
+<h4>Junior Consultant - IQVIA</h4>
+IT Business Intelligence
+
+Develop and mantain ETL data pipeline related to the pharmaceutical market in order to deliver reports thorugh different BI tools like PowerBI,Tableau and custom APP.
+All the data flow are developed with SSIS and standard stored procedure on SQL Server database.
+<br>
+<br>Technologies: SSIS (SQL Server Integration Services), Microsoft SQL Server, Microsoft Excel
 
 <h5>05|2017 - 06|2018</h5>
 <h4>Junior Consultant - CheBanca! S.p.a</h4>
 DWH Area / IT Data Management and Analytics
 
-Analyze and understand the projects requirements, perform analysis related to data mismatching and finding root causes by scanning the whole ETL process, check accuracy and completeness of the data ingested,generate the BI reports required by the business units involved,developing Oracle data model and PL/SQL objects.
+Analyze and understand the projects requirements, perform analysis related to data mismatching and finding root causes by scanning the whole ETL process, check accuracy and completeness of the data ingested,generate the BI reports required by the business units involved,design data model on Oracle DB and develop PL/SQL objects.
 <br>
 <br>Technologies: Oracle 11g, Toad for Oracle, Oracle Data Integrator, Microsoft Excel
 
@@ -27,7 +64,7 @@ Analyze and understand the projects requirements, perform analysis related to da
 <h4>Intern</h4>
 Tha aim of the internship is developing a module of the ERP of the firm concerning the projects management process in order to understand every step of the software lifecycle. 
 <br>
-<br>Technologies: ASP.NET, C#, SQL Server
+<br>Technologies: ASP.NET, C#, Microsoft SQL Server
 
 ---
 <h4>11|2015 - 04|2016</h4>
@@ -42,14 +79,13 @@ During the internship I analyzed many processes in order to seek and map the mai
 
 Technologies: VB NET, Microsoft Excel, Oracle SQL.
 
----
-<h1>Education</h1>
+<h2>Education</h2>
 
 <h4>05|2020 - 05|2021</h4>
 <h3>MU1 - Master in Business Intelligence and BigData Analytics</h3>
 University of Milan Bicocca
 <br>Piazza dell'Ateneo Nuovo 1, 20126 Milan (Italy)
-<br><a href="https://www.unimib.it/">www.unimib.it</a>
+<br><a href="https://www.unimib.it">www.unimib.it</a>
 <br>
 <br>Main topics: SQL,NoSQL,Machine learning,Deep learning,BigData,Business intelligence,Agile project management,Text mining
 <br>
@@ -59,7 +95,7 @@ University of Milan Bicocca
 <h3>Bsc - Bachelor degree in Management and Production Engineering</h3>
 Polytechnic University of Milan
 <br>Piazza Leonardo da Vinci 32, 20133 Milan (Italy)
-<br><a href="https://www.polimi.it/">www.polimi.it</a>
+<br><a href="https://www.polimi.it">www.polimi.it</a>
 <br>
 <br>Main topics: Mathematical analysis,Computer science,Economics,Operations research,Logistics and production system management,Quality control,Business management and organizzation
 <br>
@@ -72,7 +108,7 @@ A. Tosi Scientific High School
 <br><a href="https://www.liceotosi.edu.it/">www.liceotosi.edu.it</a>
 
 ---
-<h1>Skills and Knowledge</h1>
+<h2>Skills and Knowledge</h2>
 <ul>
 <li>Database Management System
 <ul>
@@ -119,7 +155,7 @@ A. Tosi Scientific High School
 <li>Anconda navigator,Jupyter Notebook,Google Colab</li>
 </ul></li>
  
-<h1>Languages</h1>
+<h2>Languages</h2>
  
 Italian: mother tongue
   

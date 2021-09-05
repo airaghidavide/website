@@ -21,7 +21,7 @@ DWH Area / IT Data Management and Analytics
 
 Analyze and understand the projects requirements, perform analysis related to data mismatching and finding root causes by scanning the whole ETL process, check accuracy and completeness of the data ingested,generate the BI reports required by the business units involved,developing Oracle data model and PL/SQL objects.
 <br>
-<br>Technologies: Oracle 11g, Toad for Oracle, Oracle Data Integrator
+<br>Technologies: Oracle 11g, Toad for Oracle, Oracle Data Integrator, Microsoft Excel
 
 <h5>11|2016 - 04|2017</h5>
 <h4>Intern</h4>

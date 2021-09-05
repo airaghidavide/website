@@ -5,7 +5,12 @@ draft: false
 ---
 
 <h2>Personal information</h2>
-
+<br>:adult: I'am: Davide Airaghi
+<br>:male_sign: Gender: Male
+<br>:baby: Date of birth: 03/02/1992
+<br>:house: Address: Milan, Italy
+<br>:triangular_flag_on_post: Nationality: Italian
+<br>:globe_with_meridians: Skype: airaghi.davide92
 
 <h2>Work experience</h2>
 

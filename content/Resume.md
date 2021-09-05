@@ -26,7 +26,7 @@ IT Consulting
 Data Governance
 
 Design of an architecture to perform specific controls with the aim to detect anomalies during the orders placement and financial operations recording. The purpose of the projects is to be compliant with the MIFID 2 regulamentation.
-The entire process is implemented with scheduled Oracle stored procedure built with PL/SQL and the final data is spooled and loaded into QlikSense dashboard to enable the user to analyze all the anomalies occured during a certain date.
+The entire process is implemented with scheduled Oracle stored procedure built with PL/SQL and the final data is spooled and loaded into QlikSense dashboard to enable the user to analyze all the anomalies occured during a given date.
 
 <br>
 <br>Technologies: Oracle 12g, SQL Developer

@@ -4,14 +4,6 @@ date: 2021-03-08T22:28:52-05:00
 draft: false
 ---
 
-<h2>Personal information</h2>
-<br>:adult: I'am: Davide Airaghi
-<br>:male_sign: Gender: Male
-<br>:baby: Date of birth: 03/02/1992
-<br>:house: Address: Milan, Italy
-<br>:triangular_flag_on_post: Nationality: Italian
-<br>:globe_with_meridians: Skype: airaghi.davide92
-
 <h2>Work experience</h2>
 
 
@@ -21,13 +13,20 @@ IT Consulting
 <br>Via Dante, 6 21052 Busto Arsizio (Italy)
 <br><a href="https://www.reti.it/">www.reti.it</a>
 
+<h5>03|2021 - present</h5>
+<h4>Consultant - LaCisa</h4>
+BI and Analytics
+
+Refactoring of the data flow of the logistic vehicles during the goods handling. The data is transmitted by the sensors mounted on the vehicles and is transformed by a VBA macro and stored into an on prem SQL Server DB.
+<br>
+<br>Technologies: Microsoft SQL Server, Azure Data Factory, VBA, T-SQL
+
 <h5>04|2020 - present</h5>
 <h4>Consultant - Intesa</h4>
 Data Governance
 
 Design of an architecture to perform specific controls with the aim to detect anomalies during the orders placement and financial operations recording. The purpose of the projects is to be compliant with the MIFID 2 regulamentation.
 The entire process is implemented with scheduled Oracle stored procedure built with PL/SQL and the final data is spooled and loaded into QlikSense dashboard to enable the user to analyze all the anomalies occurred during a given date.
-
 <br>
 <br>Technologies: Oracle 12g, SQL Developer
 

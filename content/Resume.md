@@ -17,7 +17,7 @@ IT Consulting
 <h4>Consultant - LaCisa</h4>
 BI and Analytics
 
-Refactoring of the data flow of the logistic vehicles during the goods handling. The data is transmitted by the sensors mounted on the vehicles and is transformed by a VBA macro and stored into an on prem SQL Server DB.
+The installed sensors on the logistic vehicles send the data during the goods handling of each vehicle. Due to the huge amount of incoming data it's necessary to refactor the dataflow with a scalable solution converting the current ETL process performed in VBA to an automated pipeline in Azure Data Factory.
 <br>
 <br>Technologies: Microsoft SQL Server, Azure Data Factory, VBA, T-SQL
 
@@ -34,7 +34,8 @@ The entire process is implemented with scheduled Oracle stored procedure built w
 <h4>Consultant - Allianz Technology</h4>
 Allianz Technology - L/H Actuarial Solutions
 
-
+Analyze the business logic and developing the calculation part of the actuarial custom product ARGO, support during the UAT step, manage and fix data mismatching and/or bugs.
+Design of the data model and develop all the database objects in charge of performing the calculation using the parameters provided by the user.
 <br>
 <br>Technologies: Oracle 19c, Toad for Oracle, Microsoft Excel
 

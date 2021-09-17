@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Davide Airaghi</title>
+    <link>https://www.davideairaghi.com/tags/</link>
+    <description>Recent content in Tags on Davide Airaghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 23 Jun 2021 22:29:05 -0500</lastBuildDate><atom:link href="https://www.davideairaghi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>classification</title>
+      <link>https://www.davideairaghi.com/tags/classification/</link>
+      <pubDate>Wed, 23 Jun 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://www.davideairaghi.com/tags/machine-learning/</link>
+      <pubDate>Wed, 23 Jun 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predictive modeling</title>
+      <link>https://www.davideairaghi.com/tags/predictive-modeling/</link>
+      <pubDate>Wed, 23 Jun 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/tags/predictive-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>showcase</title>
+      <link>https://www.davideairaghi.com/tags/showcase/</link>
+      <pubDate>Wed, 23 Jun 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/tags/showcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XAI</title>
+      <link>https://www.davideairaghi.com/tags/xai/</link>
+      <pubDate>Wed, 23 Jun 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/tags/xai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>app</title>
+      <link>https://www.davideairaghi.com/tags/app/</link>
+      <pubDate>Wed, 02 Jun 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>https://www.davideairaghi.com/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davideairaghi.com/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

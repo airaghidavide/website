@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Davide Airaghi</title>
+    <link>https://www.davideairaghi.com/projects/</link>
+    <description>Recent content in Projects on Davide Airaghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 23 Jun 2021 22:29:05 -0500</lastBuildDate><atom:link href="https://www.davideairaghi.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business pitch - Employee churn prediction for Reti S.p.a</title>
+      <link>https://www.davideairaghi.com/projects/employeechurn/</link>
+      <pubDate>Wed, 23 Jun 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/projects/employeechurn/</guid>
+      <description>Context Employee churn is a costly problem for companies. The true cost of replacing an employee can often be quite large. A study by the Center for American Progress found that companies typically pay about one-fifth of an employee’s salary to replace that employee, and the cost can significantly increase if executives or highest-paid employees are to be replaced. In other words, the cost of replacing employees for most employers remains significant.</description>
+    </item>
+    
+    <item>
+      <title>Financial Inclusion classifier - Streamlit App</title>
+      <link>https://www.davideairaghi.com/projects/financialinclusion/</link>
+      <pubDate>Wed, 02 Jun 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/projects/financialinclusion/</guid>
+      <description>Context Financial inclusion remains one of the main obstacles to economic and human development in Africa. For example, across Kenya, Rwanda, Tanzania, and Uganda only 9.1 million adults (or 14% of adults) have access to or use a commercial bank account.
+Traditionally, access to bank accounts has been regarded as an indicator of financial inclusion. Despite the proliferation of mobile money in Africa, and the growth of innovative fintech solutions, banks still play a pivotal role in facilitating access to financial services.</description>
+    </item>
+    
+    <item>
+      <title>Create a website with Hugo</title>
+      <link>https://www.davideairaghi.com/projects/hugosite/</link>
+      <pubDate>Mon, 08 Mar 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/projects/hugosite/</guid>
+      <description>I made this website using Hugo. It was much easier than I anticipated and it&amp;rsquo;s all thanks to the ease-of-use of the Hugo framework. If you would like to build a similar website:
+ Watch this Youtube tutorial Create your own Hugo site and add a theme to it Deploy it on Netlify Buy a domain name  </description>
+    </item>
+    
+  </channel>
+</rss>

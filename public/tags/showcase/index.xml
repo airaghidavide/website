@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>showcase on Davide Airaghi</title>
+    <link>https://www.davideairaghi.com/tags/showcase/</link>
+    <description>Recent content in showcase on Davide Airaghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 23 Jun 2021 22:29:05 -0500</lastBuildDate><atom:link href="https://www.davideairaghi.com/tags/showcase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business pitch - Employee churn prediction for Reti S.p.a</title>
+      <link>https://www.davideairaghi.com/projects/employeechurn/</link>
+      <pubDate>Wed, 23 Jun 2021 22:29:05 -0500</pubDate>
+      
+      <guid>https://www.davideairaghi.com/projects/employeechurn/</guid>
+      <description>Context Employee churn is a costly problem for companies. The true cost of replacing an employee can often be quite large. A study by the Center for American Progress found that companies typically pay about one-fifth of an employee’s salary to replace that employee, and the cost can significantly increase if executives or highest-paid employees are to be replaced. In other words, the cost of replacing employees for most employers remains significant.</description>
+    </item>
+    
+  </channel>
+</rss>
